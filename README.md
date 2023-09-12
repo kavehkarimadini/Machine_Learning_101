@@ -11,8 +11,10 @@ The order of learning the notebooks in this class is:
 <br>
 4- CarPrice_Assignment_Kaveh_Karimadini
 <br>
-5- The HR Machine Learning Notebooks
+5- Emdad_khodro_Kaveh_Karimadini
 <br>
-6- Titanic Project_Kaveh_Karimadini
+6- The HR Machine Learning Notebooks
 <br>
-7- Assossiasion_Rules_01_Kaveh_Karimadini
+7- Titanic Project_Kaveh_Karimadini
+<br>
+8- Assossiasion_Rules_01_Kaveh_Karimadini
