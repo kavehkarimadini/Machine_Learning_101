@@ -13,6 +13,8 @@ The order of learning the notebooks in this class is:
 <br>
 5- cosine_and_hamming_distance_Kaveh_Karimadini
 <br>
+1- beam_search_Kaveh_Karimadini
+<br>
 4- knn_diabetes_Kaveh_Karimadini
 <br>
 5- CarPrice_Assignment_Kaveh_Karimadini
