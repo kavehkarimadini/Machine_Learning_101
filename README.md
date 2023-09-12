@@ -31,6 +31,10 @@ The order of learning the notebooks in this class is:
 <br>
 9- Assossiasion_Rules_01_Kaveh_Karimadini
 <br>
+1- Text_Clustering_Kaveh_Karimadini
+<br>
 1- kpi_clustering_K_Means_Kaveh_Karimadini
+<br>
+1- Image_Similarity_Kaveh_Karimadini
 <br>
 1- Image_Processing_Kaveh_karimadini
