@@ -1,4 +1,6 @@
 # Machine_Learning_101
+## These are all of My Personal experiences throughout the years of coding But <b>My main focus now is in deep learning .")</b>
+<br>
 This is a repository for active learners wanting to step into a big world of data_driven desicion making
 <br>
 The order of learning the notebooks in this class is:
@@ -13,33 +15,38 @@ The order of learning the notebooks in this class is:
 <br>
 5- cosine_and_hamming_distance_Kaveh_Karimadini
 <br>
-1- Very_Simple_rec_system_Kaveh_Karimadini
+6- Very_Simple_rec_system_Kaveh_Karimadini
 <br>
-1- beam_search_Kaveh_Karimadini
+7- beam_search_Kaveh_Karimadini
 <br>
-1- uniform_cost_search_Kaveh_Karimadini
+8- uniform_cost_search_Kaveh_Karimadini
 <br>
-4- knn_diabetes_Kaveh_Karimadini
+9- knn_diabetes_Kaveh_Karimadini
 <br>
-5- CarPrice_Assignment_Kaveh_Karimadini
+9- CarPrice_Assignment_Kaveh_Karimadini
 <br>
-6- Emdad_khodro_Kaveh_Karimadini
+10- Emdad_khodro_Kaveh_Karimadini
 <br>
-7- The HR Machine Learning Notebooks
+11- The HR Machine Learning Notebooks
 <br>
-8- Titanic Project_Kaveh_Karimadini
+12- Titanic Project_Kaveh_Karimadini
 <br>
-9- Assossiasion_Rules_01_Kaveh_Karimadini
+13- multiclass_classification_PSO_Kaveh_Karimadini
 <br>
-1- Final_itembase_anime_rec_Kaveh_Karimadini
+14- Assossiasion_Rules_01_Kaveh_Karimadini
 <br>
-1- Text_Clustering_Kaveh_Karimadini
+15- Final_itembase_anime_rec_Kaveh_Karimadini
 <br>
-1- kpi_clustering_K_Means_Kaveh_Karimadini
+16- Text_Clustering_Kaveh_Karimadini
 <br>
-1- Image_Similarity_Kaveh_Karimadini
+17- kpi_clustering_K_Means_Kaveh_Karimadini
 <br>
-1- Image_Processing_Kaveh_karimadini
+18- Image_Similarity_Kaveh_Karimadini
 <br>
-1- The Pyspark bundle (Not a fan really :[ )
-
+19- Image_Processing_Kaveh_karimadini
+<br>
+20- The Pyspark bundle (Not a fan really :[ )
+<br>
+21- The Hard work in Enamel Center (Top real data projects)
+<br>
+I May want to Update thist reprository so stay tune my friend and happy coding :{ )))))!
