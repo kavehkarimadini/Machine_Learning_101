@@ -5,4 +5,6 @@ The order of learning the notebooks in this class is:
 <br>
 1- Refreshing_Excercise_Kaveh_Karimadini
 <br>
-2- pandas_demo_Full_Tutorial_Kaveh_karimadini
+2- kaveh_project_1
+<br>
+3- pandas_demo_Full_Tutorial_Kaveh_karimadini
