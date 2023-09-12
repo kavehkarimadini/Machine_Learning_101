@@ -9,6 +9,10 @@ The order of learning the notebooks in this class is:
 <br>
 3- pandas_demo_Full_Tutorial_Kaveh_karimadini
 <br>
+4- Introduction_to_Numpy_Kaveh_Karimadini
+<br>
+5- cosine_and_hamming_distance_Kaveh_Karimadini
+<br>
 4- knn_diabetes_Kaveh_Karimadini
 <br>
 5- CarPrice_Assignment_Kaveh_Karimadini
