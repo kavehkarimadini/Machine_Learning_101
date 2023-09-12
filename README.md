@@ -8,3 +8,9 @@ The order of learning the notebooks in this class is:
 2- kaveh_project_1
 <br>
 3- pandas_demo_Full_Tutorial_Kaveh_karimadini
+<br>
+4- The HR Machine Learning Notebooks
+<br>
+5- Titanic Project_Kaveh_Karimadini
+<br>
+6- Assossiasion_Rules_01_Kaveh_Karimadini
